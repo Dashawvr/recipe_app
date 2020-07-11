@@ -11,14 +11,17 @@
 
 .search-bar {
   width: 50%;
+  height: 30px;
   border: none;
-  padding: 30px;
+  font-size: 20px;
 }
 
 .search-button {
+  margin-left: 10px;
+  border-radius: 15px;
   background: coral;
   border: none;
-  padding: 10px 20px;
+  padding: 8px 20px;
   color: wheat;
 }
 
